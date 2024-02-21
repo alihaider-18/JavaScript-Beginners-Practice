@@ -11,5 +11,5 @@ function countVowels(str){
     return vowelsCount;
 }
 
-str = 'AliHaider';
+str = 'abcdefghijklmnopqrstuvwxyz';
 console.log(countVowels(str));
