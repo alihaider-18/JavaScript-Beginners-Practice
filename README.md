@@ -88,4 +88,4 @@ Happy coding! 💻✨
 
 40. **Check for Triangular Number**: Write a JavaScript function that checks whether a given number is a triangular number.
 
-These problems offer a diverse range of challenges for beginners to tackle while practicing JavaScript programming.
+Add more questions if you can....
