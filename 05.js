@@ -1,4 +1,4 @@
-// **Calculate Factorial**: Write a JavaScript function that calculates the
+// Calculate Factorial: Write a JavaScript function that calculates the
 // factorial of a non-negative integer.
 
 function calFactorial(number){

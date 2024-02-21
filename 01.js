@@ -1,5 +1,5 @@
 // Calculate the Area of a Rectangle: Write a JavaScript function that takes the 
-//length and width of a rectangle as parameters and returns the area.
+// length and width of a rectangle as parameters and returns the area.
 
 function calculateArea(length,breadth){
     return length * breadth;

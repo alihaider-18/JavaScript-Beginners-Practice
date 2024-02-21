@@ -1,4 +1,4 @@
-// **Check for Palindrome**: Write a JavaScript function that checks whether a given 
+// Check for Palindrome: Write a JavaScript function that checks whether a given 
 // string is a palindrome (reads the same backward as forward).
 
 function isPalindrome(str) {

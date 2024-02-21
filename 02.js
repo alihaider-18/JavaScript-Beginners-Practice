@@ -1,4 +1,4 @@
-// **Reverse a String**: Write a JavaScript function that takes a string 
+// Reverse a String: Write a JavaScript function that takes a string 
 // as input and returns the reverse of that string.
 
 function reverseStr(str){
