@@ -1,15 +1,20 @@
-// **Count Vowels in a String**: Write a JavaScript function that counts the number
+// Count Vowels in a String: Write a JavaScript function that counts the number
 // of vowels in a given string.
 
 function countVowels(str){
-    let lowerSrt = str.toLowerCase();
-    let vowelsCount = 0;
-    for ( let char of lowerSrt){
-      if ('aeiou'.includes(char))
-      vowelsCount++; 
+  const strLower = str.toLowerCase();
+  let numOfVowels = 0;
+  for (let char of strLower){
+    if ('aeiou'.includes(char)){
+      numOfVowels++;
     }
-    return vowelsCount;
+  }
+
+  return numOfVowels;
 }
 
-str = 'abcdefghijklmnopqrstuvwxyz';
-console.log(countVowels(str));
+str = 'Hello World';
+console.log("Original String : ",str)
+console.log("Number of Vowels : ",countVowels(str)); // output : 3
+ 
+
