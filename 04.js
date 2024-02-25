@@ -8,7 +8,7 @@ function isPalindrome(str) {
     return str === reversed;
 }
 
-let result = isPalindrome("LEVEL");
+let result = isPalindrome("RACECAR");
 if (result){
     console.log("Given Strings is Palindrome");
 }
